@@ -1,7 +1,7 @@
 <svg width="100%" height="100%" version="1.1"
 xmlns="http://www.w3.org/2000/svg">
 
-<line x1="0" y1="0" x2="300" y2="300"
+<line x1="0" y1="0" x2="3001" y2="300"
 style="stroke:rgb(99,99,99);stroke-width:2"/>
   
 <script>alert('hack12312312')</script>
