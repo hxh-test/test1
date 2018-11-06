@@ -14,6 +14,7 @@
 <missing-glyph> <mpath> <path> <pattern> <polygon> <polyline> <radialGradient> <rect>
 <script> <set> <stop> <style> <svg> <switch> <symbol> <text> <textPath> <title> <tref> <tspan> <use>
 <view> <vkern>
+
 <a/> <altGlyph/> <altGlyphDef/> <altGlyphItem/> <animate/>
 <animateColor/> <animateMotion/> <animateTransform/> <circle/> <clipPath/> <color-profile/>
 <cursor/> <defs/> <desc/> <ellipse/> <feBlend/> <feColorMatrix/> <feComponentTransfer/>
