@@ -12,3 +12,6 @@ cla test
 ![alt](testAttribute.svg)
 
 ![alt](testAttribute2.svg)
+
+
+![alt](big.svg)
