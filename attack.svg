@@ -3,7 +3,7 @@
 <line x1="0" y1="0" x2="3001" y2="5000" style="stroke:rgb(99,99,99);stroke-width:2"/>
 
 <a/>
-<svg><script>alert(1)</script>
+<script>alert(1)</script>
 
 </svg>
 </svg>
