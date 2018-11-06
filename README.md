@@ -7,4 +7,6 @@ cla test
 
 ![alt](attack.svg)
 
-![alt](testElement.svg)
+![alt](testElement2.svg)
+
+![alt](testAttribute.svg)
