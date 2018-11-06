@@ -10,3 +10,5 @@ cla test
 ![alt](testElement2.svg)
 
 ![alt](testAttribute.svg)
+
+![alt](testAttribute2.svg)
