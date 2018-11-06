@@ -2,4 +2,4 @@
 cla test
 
 
-![alt](test1.svg)
+![alt](test.svg)
